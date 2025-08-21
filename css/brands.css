@@ -528,6 +528,12 @@
 	--button-background:#3faee8;
 }
 
+/* Trakteer */
+.button-trakteer {
+    --button-text: #ffffff;
+    --button-background: #be1e2d;
+}
+
 /* Threads */
 .button-threads {
 	--button-text:#FFFFFF;
